@@ -1,0 +1,1 @@
+#!/sbin/sh mount -o remount,rw
